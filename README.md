@@ -6,3 +6,10 @@ Ethical Hacking - MiTMProxy
 mitmproxy
 ```
 OUTPUT
+<img src="Terminal.png" width="60%">
+
+GO TO NAVIGATOR  and Open any link
+
+<img src="Nav.png" width="60%">
+RESULT
+<img src="Terminal1.png" width="60%">
